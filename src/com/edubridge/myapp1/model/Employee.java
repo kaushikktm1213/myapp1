@@ -6,7 +6,7 @@ public class Employee {
 	private String employeeName ;
 	private double employeeSalary;
 	private String employeeEmail;
-	
+	private long employeeMobile;
 	public int getEmployeeId() {
 		return employeeId;
 	}
